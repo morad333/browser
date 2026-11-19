@@ -1,0 +1,6 @@
+{
+  "name": "Velo Browser",
+  "description": "A lightweight, minimal desktop web browser with vertical tabs, private mode, bookmarks, history, and downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
